@@ -11,10 +11,15 @@
 📍𝐓𝐡𝐢𝐧𝐠𝐬 𝐭𝐨 𝐤𝐞𝐞𝐩 𝐢𝐧 𝐦𝐢𝐧𝐝:
 
 ▪️Always go topic-wise and do related questions.
+#
 ▪️Document your journey in GitHub. It helps to keep yourself accountable for consistency, also recruiters will be confident on you.
+#
 ▪️Make a Google doc and document the question links and it's code which you find extremely difficult and you know you can't solve on your own without a hint(This doc can be used for revision just before your interview as well)
+#
 ▪️Consistency is everything, remove all the distractions.
+#
 ▪️If you can, get a Leetcode premium, I loved the premium solutions.
+#
 ▪️Revise the topics once a month, go to Leetcode and filter solved questions, see how you solved then and if it's difficult to understand, solve it again.
 
 📍𝐓𝐨𝐩𝐢𝐜𝐬 𝐭𝐨 𝐜𝐨𝐯𝐞𝐫:
