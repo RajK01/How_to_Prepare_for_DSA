@@ -1,9 +1,12 @@
 ## How_She_Prepared_for_DSA
 
-▪️Learnt Arrays and Strings from Hackerrank.
-▪️Learnt basics of all DSA concepts from GeeksforGeeks(see what I mean by this in image)
-▪️Did practice on InterviewBit for sometime. It has a good set of questions but not very user friendly.
-▪️Did LeetCode consistently since 2019 end.(with some breaks, see more on my github)
+✔ Learnt Arrays and Strings from Hackerrank.
+######
+✔ Learnt basics of all DSA concepts from GeeksforGeeks(see what I mean by this in image)
+######
+✔ Did practice on InterviewBit for sometime. It has a good set of questions but not very user friendly.
+######
+✔ Did LeetCode consistently since 2019 end.(with some breaks, see more on my github)
 
 📍𝐓𝐡𝐢𝐧𝐠𝐬 𝐭𝐨 𝐤𝐞𝐞𝐩 𝐢𝐧 𝐦𝐢𝐧𝐝:
 
